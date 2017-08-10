@@ -1,9 +1,9 @@
 # Site settings
 title: BY Blog
-SEOTitle: Puson的博客 | BY Blog
+SEOTitle: Puson的博客
 header-img: img/post-bg-desk.jpg
 email: pusonchan@gmail.com
-description: "Every failure is leading towards success."
+description: "This is blog by puson"
 keyword: "BY, BY Blog, Puson的博客"
 url: "http://puson.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/puson/puson.github.io.git" # you code repositor
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "我不懂装逼，我也不会装逼"
 sidebar-avatar: img/avatar-by.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -22,7 +22,6 @@ RSS: false
 zhihu_username:     pusonchan
 github_username:    puson
 facebook_username:  pusonchan
-jianshu_username:   
 twitter_username:   qiubaiying
 
 
