@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Hello Wrold
+title:      Hello World
 subtitle:    "\"Hello World, Hello Blog\""
 date:       2017-08-10
 author:     BY
